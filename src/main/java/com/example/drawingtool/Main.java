@@ -1,4 +1,4 @@
-package com.example.drawingstool;
+package com.example.drawingtool;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.drawingstool.draw;
+package com.example.drawingtool.draw;
 
 import javafx.scene.Node;
 

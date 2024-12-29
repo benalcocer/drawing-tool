@@ -1,6 +1,6 @@
-package com.example.drawingstool.views;
+package com.example.drawingtool.views;
 
-import com.example.drawingstool.draw.SelectionRectangle;
+import com.example.drawingtool.draw.SelectionRectangle;
 import javafx.geometry.Insets;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.AnchorPane;

@@ -3,7 +3,7 @@ module com.example.drawingstool {
     requires javafx.controls;
     requires javafx.graphics;
 
-    exports com.example.drawingstool;
-    exports com.example.drawingstool.views;
-    exports com.example.drawingstool.draw;
+    exports com.example.drawingtool;
+    exports com.example.drawingtool.views;
+    exports com.example.drawingtool.draw;
 }

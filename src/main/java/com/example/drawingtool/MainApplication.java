@@ -1,4 +1,4 @@
-package com.example.drawingstool;
+package com.example.drawingtool;
 
 import javafx.application.Application;
 import javafx.stage.Stage;

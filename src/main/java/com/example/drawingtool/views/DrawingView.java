@@ -1,4 +1,4 @@
-package com.example.drawingstool.views;
+package com.example.drawingtool.views;
 
 import javafx.scene.layout.Priority;
 import javafx.scene.layout.VBox;

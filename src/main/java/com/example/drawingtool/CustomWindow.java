@@ -1,4 +1,4 @@
-package com.example.drawingstool;
+package com.example.drawingtool;
 
 import javafx.scene.Scene;
 import javafx.scene.layout.VBox;

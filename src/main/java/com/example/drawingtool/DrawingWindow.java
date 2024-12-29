@@ -1,11 +1,11 @@
-package com.example.drawingstool;
+package com.example.drawingtool;
 
-import com.example.drawingstool.draw.CircleShape;
-import com.example.drawingstool.draw.DrawObject;
-import com.example.drawingstool.draw.DrawObjectType;
-import com.example.drawingstool.draw.EllipseShape;
-import com.example.drawingstool.draw.RectangleShape;
-import com.example.drawingstool.views.DrawingView;
+import com.example.drawingtool.draw.CircleShape;
+import com.example.drawingtool.draw.DrawObject;
+import com.example.drawingtool.draw.DrawObjectType;
+import com.example.drawingtool.draw.EllipseShape;
+import com.example.drawingtool.draw.RectangleShape;
+import com.example.drawingtool.views.DrawingView;
 import java.util.ArrayList;
 import javafx.beans.property.SimpleDoubleProperty;
 import javafx.beans.property.SimpleObjectProperty;
